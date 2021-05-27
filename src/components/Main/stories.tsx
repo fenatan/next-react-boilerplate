@@ -9,5 +9,5 @@ export default {
 
 export const Basic: Story = (args) => <Main {...args} />;
 Basic.args = {
-  title: 'fe',
+  title: 'Main',
 };
